@@ -1,0 +1,4 @@
+#For ilustration purposes, not for use
+bucket = "terraform-course-santialbi-remote-backend-posta" #crer manualmente para funcione mismo nombre
+    key = "backends/prod/state.tfstate"
+    region = "us-east-1"
